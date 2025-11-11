@@ -1,6 +1,5 @@
 # 3223600029_Syauqi_Nabil_Falah_TugasRTOS2
 
-# 3223600029_Syauqi-Nabil-Falah_ESP32-S3-Peripherals_n_Cores
 Sebelum mulai memprogram, rangkailah ESP32 berikut ini dengan konfigurasi pin yang sesuai.
 
 <img width="633" height="708" alt="image" src="https://github.com/user-attachments/assets/c4d0d1d4-1219-46ac-af00-3a31464146ec" />
@@ -192,8 +191,8 @@ Task terakhir ini berfungsi untuk mengontrol motor stepper menggunakan library A
 
 Hasil:
 
-![Output](https://github.com/user-attachments/assets/f8f4934a-7fff-4170-8cbf-f89089b4b524)
-
+![Demo](https://github.com/user-attachments/assets/f8f4934a-7fff-4170-8cbf-f89089b4b524?raw=true)
+_Hasil seluruh IO/Peripheral_
 
 
 
